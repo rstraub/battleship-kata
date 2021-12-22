@@ -36,6 +36,8 @@ Just in case you've never played this game before (shame on you!) let's go throu
 
 ![Battleship Game Board](battleship_board.png)
 
+Still want more info on the game? Check out this [step-by-step guide](https://www.wikihow.com/Play-Battleship).
+
 ## Hints 💡
 * TBD
 
